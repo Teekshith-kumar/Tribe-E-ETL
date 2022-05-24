@@ -1,15 +1,19 @@
 # Tribe-E-ETL
 Dynamic ETL on ML PaaS
 
-programming language used is Python
+       programming language used is Python
 
-Packages and Softwares that are required to be installed:
-       1.  Virtual environment setup [In any IDE - Sublime text(recommended)]
+       Packages and Softwares that are required to be installed:
+       
+       1.  Virtual environment setup or Windows with IDE env (Sublime text recomended)
+       
             if your are using aws linux instance  or any linux kernel in your machine just install python.
-            [for centos use - yum install python3.9 ,
-             for ubuntu use - apt -get install python3.9
+            
+             for centos use - yum install python3.9 
+             for ubuntu use - apt  install python3.9
           
-
+        Modules used
+        
         2.  Pandas:
                 Windows
                   for IDE use
